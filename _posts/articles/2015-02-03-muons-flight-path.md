@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Muons flight path, Science Hack day Nairobi - 2012"
+category: articles
 --- 
 
 ![Science hack day Nairobi, 2012 @ Demo time! - Photo Credit Matt Biddulph](/images/SHD_Nairobi_2012_demo_time.png)
