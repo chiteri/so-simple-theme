@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Chiteri's Blog
 locale: en_US
-description: Describe your website here.
+description: Personal Web logs for Martin Akolo
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -31,17 +31,17 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  email: you@email.com
+  name: Martin Akolo Chiteri
+  avatar: martin-chiteri.jpg
+  email: chiteri@geek.co.ke
   disqus-shortname:
-  twitter: #username
-  facebook: #username
-  github: #username
+  twitter: chiteri
+  facebook: martin.chiteri
+  github: chiteri
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
-  instagram: #username
-  flickr: #username
+  instagram: martinchiteri
+  flickr: mchiteri
   tumblr: #username
   google:
     plus: #username
