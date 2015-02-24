@@ -1,6 +1,7 @@
 ---
 layout: post
 title: So long Grandma
+excerpt: "A tribute to our late paternal grandmother who passed away in September 2014"
 category: articles 
 --- 
 One of the more notable events that took place in my life last year was [the passing on of my paternal grandmother] [0], kukhu (granny) Risper Nangabo Akolo. This happened on the 14<sup>th</sup> of September, 2014. She was fairly aged, 86 years old by then.  

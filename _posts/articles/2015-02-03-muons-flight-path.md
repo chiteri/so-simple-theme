@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Muons flight path, Science Hack day Nairobi - 2012"
+excerpt: "A summary from the experiences of the first SHD held in Nairobi"
 category: articles
 --- 
 
