@@ -2,15 +2,15 @@
 layout: post
 title: So long Grandma
 excerpt: "A tribute to our late paternal grandmother who passed away in September 2014"
-category: weblogs
+category: weblog
 --- 
 One of the more notable events that took place in my life last year was [the passing on of my paternal grandmother] [0], kukhu (granny) Risper Nangabo Akolo. This happened on the 14<sup>th</sup> of September, 2014. She was fairly aged, 86 years old by then.  
 
 The cause of death had been health problems related to hypertension combined with diabetes. Her first serious hypertensive attack had happened in 1973 when she was 46. They strongly surfaced again around the year 2010 when she was 82 years old, only this time she also had diabetes. Kukhu Risper had been placed on medical care a couple of years prior to that. She had gone into a comatose weeks before her demise. It was a painful loss nonetheless. Our hope had been that she would get a few more years added to her life, maybe three to five on top of those she had already lived. 
 
 <figure>
-<img alt="Photo of my grandmother and mother (seated), my father and I standing in 1987 at Ramogi Studio, Nairobi" src="/images/Kukhu_Risper_mum_dad_and_I.png"> </img>
-<figcaption>Photo of my grandmother (left) and mother (seated), my father and I standing in 1987 at Ramogi Studio, Nairobi - KENYA</figcaption> 
+<img alt="Photo of my grandmother and mother (seated), my father and I (standing) in 1987 at Ramogi Studio, Nairobi" src="/images/Kukhu_Risper_mum_dad_and_I.png"> </img>
+<figcaption>Photo of my grandmother (left) and mother (seated), my father and I (standing) in 1987 at Ramogi Studio, Nairobi - KENYA</figcaption> 
 </figure>
 
 Grandma had been very dear to my heart, with her being the last of my living grandparents <sup>(1)</sup>. She was also the only one I had ever really known in person. Had briefly encountered my maternal grandmother, [Scholastica "Pefuli"<sup>(2)</sup> Nyangweso Amwayi][1], too but she died in the year 1987 when I was barely five years of age. 
@@ -26,6 +26,7 @@ You might wonder why all the seemingly favouritism that had been accorded to me.
 ~#RIPRisperNangabo 
 
 <strong>NOTES:</strong>
+<hr />
 
 >(1) I also had the good fortune to meet and know my maternal great grandmother. She was the mother to my maternal grandfather, Mr. Peter-Charles Amwayi. Her name was Florence "Flora" Obuchere Omukhunya but I used to call her "kukhu wa kukhu" meaning a "grandmother to my grandmother". The main reason for this was that she quite naturally appeared older than my maternal grandmother. The name caught on very quickly even among her own grandchildren (my mum, aunties and uncles). She passed on in July 1995 due to a possible heart failure aged 84. 
 	

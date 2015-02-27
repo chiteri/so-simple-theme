@@ -2,12 +2,12 @@
 layout: post
 title: "Muons flight path, Science Hack day Nairobi - 2012"
 excerpt: "A summary from the experiences of the first SHD held in Nairobi"
-category: weblogs
+category: weblog
 --- 
 
 <figure>
 <img src="/images/SHD_Nairobi_2012_demo_time.png"> </img>
-<figcaption> Science hack day Nairobi, 2012 @ Demo time! - Photo Credit Matt Biddulph </figcaption>
+<figcaption> Science hack day Nairobi, 2012 @ Demo time! - Photo Credit: Matt Biddulph </figcaption>
 </figure>
 
 __This article was originally published on [IT News Africa][0] and has been reposted here.__
