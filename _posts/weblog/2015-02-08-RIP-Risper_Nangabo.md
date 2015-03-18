@@ -21,7 +21,7 @@ It was at this place that I discovered her astonishing powers of memory. Kukhu R
 
 At the end of it, I really felt humbled. There I was feeling highly educated and more "civilised" (just more modernized), "Ready to face the world" as is commonly said. Yet kukhu Risper who had never stepped into any formal classroom could put what the education system in my country so strongly promoted -- a total recollection of facts and reciting them verbatim -- to deep shame via Oral literature. I also came to the realization that this was a factor that had made grandma such a good story teller. She most probably passed that trait to me as a kid when my parents and I regularly visited her. During our stay, she would keep telling me fables at night [in her kitchen][6] after all her [other] [7] [grandchildren][8] had been put to sleep. This occurred while I sat holding a mug of fresh warm milk and listened to her intensely.
 
-You might wonder why all the seemingly favouritism that had been accorded to me. Well, I had been named "Akolo" after my grandfather [Samuel Akoolo Openda][8] which intuitively made me her first choice. Traditionally, I was her "husband" of sorts or rather a reincarnation of my grandpa :)
+You might wonder why all the seemingly favouritism that had been accorded to me. Well, I had been named "Akolo" after my grandfather [Samuel Akoolo Openda][9] which intuitively made me her first choice. Traditionally, I was her "husband" of sorts or rather a reincarnation of my grandpa :)
 
 ~#RIPRisperNangabo 
 
@@ -39,6 +39,6 @@ You might wonder why all the seemingly favouritism that had been accorded to me.
 [4]: https://www.flickr.com/photos/98645159@N06/15891374932/in/set-72157649449099925 "Uncle Barnabas Amwayi (Jam) with son Obilo behind"
 [5]: http://youtu.be/tlhsWbNoavY "Aunty Mically Omusamia speaks on behalf of my mum, Gertrude Oranga Akolo"
 [6]: http://youtu.be/axTvRW7cRpg "Having a chat with grandma inside her kitchen in December 2010"
-[7]: https://www.flickr.com/photos/mchiteri/15132971469/in/set-72157647750851895 "All the granddaughters of kukhu Risper Nangabo present"
+[7]: https://www.flickr.com/photos/mchiteri/15132971469/in/set-72157647750851895/ "All the granddaughters of kukhu Risper Nangabo present"
 [8]: https://www.flickr.com/photos/mchiteri/15132889949/in/set-72157647750851895/ "Reverend Bernard Akhwale introducing kukhu Risper Nangabo's grandsons, his cousins"
-[9]: https://www.flickr.com/photos/mchiteri/15834030855/in/set-72157626055297784 "Samuel Akoolo Openda, our grandfather in 1936 aged 38"
+[9]: https://www.flickr.com/photos/mchiteri/15834030855/in/set-72157626055297784/ "Samuel Akoolo Openda, our grandfather in 1936 aged 38"
