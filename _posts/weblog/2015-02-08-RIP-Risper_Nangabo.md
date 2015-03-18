@@ -33,10 +33,10 @@ You might wonder why all the seemingly favouritism that had been accorded to me.
 >(2) The name "Pefuli" was given to my maternal grandmother by her elderly lady friends who could not pronounce her baptismal name, Bavin, properly. She belonged to the "Church of God" Christian denomination before converting to Catholicism when she got married to her husband, a member of the Roman Catholic church. She acquired the name Scholastica after her wedding and second baptism.
 
 [0]: https://www.flickr.com/photos/mchiteri/sets/72157647750851895/ "Photo set of us giving our final tribute to our late paternal grandmother"
-[1]: https://www.flickr.com/photos/mchiteri/5010942717/in/set-72157626055297784 "Maternal grandma seated second from left with her daughters and. Those standing are her sons"
+[1]: https://www.flickr.com/photos/mchiteri/5010942717/in/set-72157626055297784/ "Maternal grandma seated second from left with her daughters and. Those standing are her sons"
 [2]: http://www.strathmore.edu/ "Strathmore University, my Alma mater"
 [3]: http://youtu.be/WaF235uWB4I "Uncle Richard Obadiah Akolo speaks at his mother's funeral" 
-[4]: https://www.flickr.com/photos/98645159@N06/15891374932/in/set-72157649449099925 "Uncle Barnabas Amwayi (Jam) with son Obilo behind"
+[4]: https://www.flickr.com/photos/98645159@N06/15891374932/in/set-72157649449099925/ "Uncle Barnabas Amwayi (Jam) with son Obilo behind"
 [5]: http://youtu.be/tlhsWbNoavY "Aunty Mically Omusamia speaks on behalf of my mum, Gertrude Oranga Akolo"
 [6]: http://youtu.be/axTvRW7cRpg "Having a chat with grandma inside her kitchen in December 2010"
 [7]: https://www.flickr.com/photos/mchiteri/15132971469/in/set-72157647750851895/ "All the granddaughters of kukhu Risper Nangabo present"
