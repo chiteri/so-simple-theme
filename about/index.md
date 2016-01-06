@@ -16,7 +16,7 @@ In the recent past, my main area of focus has been in building applications for 
 
 I used to work for [an international I.T firm][8] which specialized in writing and maintaining applications for Utility companies (Water and Electrical power distribution) in the Sub-Saharan region of Africa. That was for five years starting from August 2008 until August 2013. After that I worked with [the largest food assistance (shifting from food aid) organization][9] in the world, from January 2014 until end of November 2015.
 
-Right now I am a graduate student in [Alberta University's] [10]  department of [Civil & Environmental Engineering] [11]. I am taking a [Master of Science degree] [12] course in [Construction Engineering & Management][13] with a heavy bias towards Computer based Simulations and modelling.
+Right now I am a graduate student in [Alberta University's] [10]  department of [Civil & Environmental Engineering] [11]. I am taking a [Master of Science degree] [12] course in [Construction Engineering & Management][13] with a heavy bias towards Computer based Simulations and modelling under the supervision of [Dr. AbouRizk] [14].
 
 [0]: http://nairobi.sciencehackday.com/ "Science Hack day, Nairobi"
 [1]: http://www.python.org/ "Python Language"
@@ -32,3 +32,4 @@ Right now I am a graduate student in [Alberta University's] [10]  department of 
 [11]: http://www.civil.engineering.ualberta.ca/Graduate.aspx "Department of Civil & Environmental Engineering and School of Mining & Petroleum - University of Alberta" 
 [12]: http://www.civil.engineering.ualberta.ca/en/Graduate/DegreesandPrograms/MScPrograms.aspx "M.Sc Programs"
 [13]: http://www.civil.engineering.ualberta.ca/en/Research/ResearchAreas/Construction.aspx "Construction - School of Mining & Petroleum - University of Alberta" 
+[14]: http://www.civil.engineering.ualberta.ca/Research/ResearchAreas/Construction/SimaanMAbouRizk.aspx "Dr. Simaan AbouRizk"
