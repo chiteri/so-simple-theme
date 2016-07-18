@@ -9,7 +9,7 @@ One of the more notable events that took place in my life last year was [the pas
 The cause of death had been health problems related to hypertension combined with diabetes. Her first serious hypertensive attack had happened in 1973 when she was 46. They strongly surfaced again around the year 2010 when she was 82 years old, only this time she also had diabetes. Kukhu Risper had been placed on medical care a couple of years prior to that. She had gone into a comatose weeks before her demise. It was a painful loss nonetheless. Our hope had been that she would get a few more years added to her life, maybe three to five on top of those she had already lived. 
 
 <figure>
-<img alt="Photo of my grandmother and mother (seated), my father and I (standing) in 1987 at Ramogi Studio, Nairobi" src="/images/Kukhu_Risper_mum_dad_and_I.png"> </img>
+<img alt="Photo of my grandmother and mother (seated), my father and I (standing) in 1987 at Ramogi Studio, Nairobi" src="/images/Kukhu_Risper_mum_dad_and_I.png" />
 <figcaption>Photo of my grandmother (left) and mother (seated), my father and I (standing) in 1987 at Ramogi Studio, Nairobi - KENYA</figcaption> 
 </figure>
 
