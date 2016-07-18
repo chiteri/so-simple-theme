@@ -6,7 +6,7 @@ category: weblog
 --- 
 
 <figure>
-<img src="/images/SHD_Nairobi_2012_demo_time.png"> </img>
+<img src="/images/SHD_Nairobi_2012_demo_time.png" /> 
 <figcaption> Science hack day Nairobi, 2012 @ Demo time! - Photo Credit: Matt Biddulph </figcaption>
 </figure>
 
