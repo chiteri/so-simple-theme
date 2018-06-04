@@ -18,7 +18,7 @@ I used to work for [an international I.T firm][8] which specializes in writing a
 
 I have been extremely fortunate to have been invited to [CERN][5], the European Particle Physics laboratory, to work with [a group of other highly talented Web developers][6] on a project to restore [parts of the original World-wide Web system's server and website][7].
 
-Right now I am a graduate student in [Alberta University's] [10]  department of [Civil & Environmental Engineering] [11]. I am taking a [Master of Science degree] [12] in [Construction Engineering & Management][13] with a heavy bias towards Computer based Simulations and modelling under the supervision of [Dr. AbouRizk] [14].
+Have just completed my studies in [Alberta University's] [10]  department of [Civil & Environmental Engineering] [11] where I had been taking [Master of Science degree] [12] courses in [Construction Engineering & Management][13] with a heavy bias towards Computer based Simulations and modelling for construction engineering and management under the supervision of [Dr. AbouRizk] [14].
 
 [0]: http://nairobi.sciencehackday.com/ "Science Hack day, Nairobi"
 [1]: http://www.python.org/ "Python Language"
