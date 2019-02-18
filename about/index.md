@@ -26,8 +26,9 @@ Have just [completed my studies][12] in [Alberta University's] [13]  department 
 [3]: https://www.djangoproject.com/ 
 [4]: https://golang.org/ "GoLang"
 [5]: http://home.web.cern.ch/
-[6]: http://first-website.web.cern.ch/blog/line-mode-browser-dev-days-participants-announced "LMB participants" 
-[7]: http://line-mode.cern.ch/ "Line-Mode Browser simulator"
+[6]: https://worldwideweb.cern.ch/colophon/ "World-Wide Web / Nexus browser's restoration project participants" 
+[7]: http://first-website.web.cern.ch/blog/line-mode-browser-dev-days-participants-announced "Line-Mode Browser simulator participants announced"
+[8]: http://line-mode.cern.ch/ "Universal Line-Mode browser restoration project"
 [9]: https://worldwideweb.cern.ch/browser "Nexus browser emulator"
 [10]: http://www.indra.es/ "Indra Sistemas"
 [11]: http://www.wfp.org/ "World Food Programme"
