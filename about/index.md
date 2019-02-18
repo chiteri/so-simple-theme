@@ -18,7 +18,7 @@ I used to work for [an international I.T firm][8] which specializes in writing a
 
 I have been extremely fortunate to have been invited to [CERN][5], the European Particle Physics laboratory, to work with [a group of other highly talented Web developers][6] on a project to restore [parts of the original World-wide Web system's server and website][7].
 
-Have just completed my studies in [Alberta University's] [10]  department of [Civil & Environmental Engineering] [11] where I had been taking [Master of Science degree] [12] courses in [Construction Engineering & Management][13] with a heavy bias towards Computer based Simulations and modelling for construction engineering and management under the supervision of [Dr. AbouRizk] [14].
+Have just [completed my studies][10] in [Alberta University's] [11]  department of [Civil & Environmental Engineering] [12] where I had been taking [Master of Science degree] [13] courses in [Construction Engineering & Management][14] with a heavy bias towards [Computer based Simulations and modelling][15] for construction engineering and management under the supervision of [Dr. AbouRizk] [16].
 
 [0]: http://nairobi.sciencehackday.com/ "Science Hack day, Nairobi"
 [1]: http://www.python.org/ "Python Language"
@@ -30,8 +30,10 @@ Have just completed my studies in [Alberta University's] [10]  department of [Ci
 [7]: http://line-mode.cern.ch/ "Line-Mode Browser simulator"
 [8]: http://www.indra.es/ "Indra Sistemas"
 [9]: http://www.wfp.org/ "World Food Programme"
-[10]: https://ualberta.ca/ "University of Alberta"
-[11]: http://www.civil.engineering.ualberta.ca/Graduate.aspx "Department of Civil & Environmental Engineering and School of Mining & Petroleum - University of Alberta" 
-[12]: http://www.civil.engineering.ualberta.ca/en/Graduate/DegreesandPrograms/MScPrograms.aspx "M.Sc Programs"
-[13]: http://www.civil.engineering.ualberta.ca/en/Research/ResearchAreas/Construction.aspx "Construction - School of Mining & Petroleum - University of Alberta" 
-[14]: http://www.civil.engineering.ualberta.ca/Research/ResearchAreas/Construction/SimaanMAbouRizk.aspx "Dr. Simaan AbouRizk"
+[10]: https://era.library.ualberta.ca/items/71ce7a37-fad3-4e67-97af-912e82bad726/view/616adb50-2d02-4f93-a40a-75a584f29586/Chiteri_Martin_A_2018_05_MSc.pdf "Martin Akolo Chiteri, Master of Science thesis - Cash-Flow and Residual Value Analysis for Construction Equipment"
+[11]: https://ualberta.ca/ "University of Alberta"
+[12]: http://www.civil.engineering.ualberta.ca/Graduate.aspx "Department of Civil & Environmental Engineering and School of Mining & Petroleum - University of Alberta" 
+[13]: http://www.civil.engineering.ualberta.ca/en/Graduate/DegreesandPrograms/MScPrograms.aspx "M.Sc Programs"
+[14]: http://www.civil.engineering.ualberta.ca/en/Research/ResearchAreas/Construction.aspx "Construction - School of Mining & Petroleum - University of Alberta" 
+[15]: https://www.informs-sim.org/wsc16papers/290.pdf "A prototype for simulating the kinematics of crane rigging oscilatory motion using Simphony.NET" 
+[16]: http://www.civil.engineering.ualberta.ca/Research/ResearchAreas/Construction/SimaanMAbouRizk.aspx "Dr. Simaan AbouRizk"
