@@ -16,7 +16,7 @@ In the recent past, my main area of focus has been in building applications for 
 
 I used to work for [an international I.T firm][10] which specializes in writing and maintaining applications for Utility companies (Water and Electrical power distribution) in the Sub-Saharan region of Africa. That was for five years starting from August 2008 until August 2013. After that I worked with [the largest food assistance (shifting from food aid) organization][11] in the world between January 2014 and end of November 2015. 
 
-I have been extremely fortunate to have been invited to [CERN][5], the European Particle Physics laboratory, 'twice to work][6] with [a group of other highly talented Web developers][7] on a project to restore [parts of the original World-wide Web system's server and website][8] and the first [World-Wide Web browser][9] for a distributed hypertext system that ran on a NeXT machine.
+I have been extremely fortunate to have been invited to [CERN][5], the European Particle Physics laboratory, [twice to work][6] with [a group of other highly talented Web developers][7] on a project to restore [parts of the original World-wide Web system's server and website][8] and the first [World-Wide Web browser][9] for a distributed hypertext system that ran on a NeXT machine.
 
 Have just [completed my studies][12] in [Alberta University's] [13]  department of [Civil & Environmental Engineering] [14] where I had been taking [Master of Science degree] [15] courses in [Construction Engineering & Management][16] with a heavy bias towards [Computer based Simulations and modelling][17] for construction engineering and management under the supervision of [Dr. AbouRizk] [18].
 
