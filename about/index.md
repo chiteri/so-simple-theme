@@ -20,7 +20,7 @@ I have been extremely fortunate to have been invited to [CERN][5], the European 
 
 Have just [completed my studies][12] in [Alberta University's] [13]  department of [Civil & Environmental Engineering] [14] where I had been taking [Master of Science degree] [15] courses in [Construction Engineering & Management][16] with a heavy bias towards [Computer based Simulations and modelling][17] for construction engineering and management under the supervision of [Dr. AbouRizk] [18].
 
-[0]: http://nairobi.sciencehackday.com/ "Science Hack day, Nairobi"
+[0]: http://sciencehackday.org/ "Science Hack day, Global home page"
 [1]: http://www.python.org/ "Python Language"
 [2]: http://www.openstack.org/ "Open stack"
 [3]: https://www.djangoproject.com/ 
