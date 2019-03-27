@@ -19,7 +19,7 @@ This is in essence necessitated by the fact that there were durations when the e
 
 ### Fast forward to 2013 AD, approximately 13.7 billion Earth years after the Universe had started to expand ...
 <figure>
-<img alt="Inside the Universal line-mode browser 'War room' at CERN - 18th September, 2013" src="/images/cern_hack_days_2019_cafeteria1.jpg" />
+<img alt="Inside the Universal line-mode browser 'War room' at CERN - 18th September, 2013" src="/images/cern_hack_days_2013_sept.jpg" />
 <figcaption> Inside the Universal line-mode browser 'War room' at CERN - 18th September, 2013 </figcaption>
 </figure>
 I had been living in Kenya, one of the countries that make up East Africa's region, since birth for a little over 30 years before then. For two years prior to 2013, I was involved in the organizing of a Science event known as "Science hack day" locally in the country's capital city, Nairobi. The main aim of Science hack day is to bring together scientists, artists, developers, designers, mathematicians, musicians, engineers plus all sorts of awesome people into the same physical space for a period of 48 hours so that they could build even more amazing stuff together. At the end of April 2013, I had seen a post on CERN's website making an announcement that the free and open Web had been in existence for the past 25 years which called for a celebration of sorts. I was thrilled at the news and decided to leave a comment using a contact left at the end of the article expressing my excitement and wishing CERN's Web team good fortune in restoring the website of the first Web server and parts of the server environment for members of the general public. I also mentioned briefly what I did for a living (software development) as per the request on the post. I must have been the very first person to write and got a response from CERN a few minutes later sounding equally bubbly about my feedback to their (We)b-log post. In addition, the writer got in touch later and made a polite request encouraging me to hand in an application to participate in a project to restore the Universal Line-mode browser, the second free browser authored by an intern, Nicola Pellow, in 1990 at CERN. That was on the first week of June 2013 and honestly, it was one of the highlights of my year and probably a peak in my natural life too.
@@ -53,7 +53,10 @@ Our nearest star system, Proxima Centauri, is 4.37 light years away. Light / a p
 Our nearest star system, Proxima Centauri, is 4.37 light years away. Light / a photon from SC arrives there less than 2 seconds earlier than a proton from LHC’s acceleration chambers. An original quote by Dr. James Gillies during a tour of the SC on 15th February #CERNHackDays 2019 </figcaption>
 </figure>
 ### Web @ 30 celebrations 
-
+<figure>
+<img alt="The World-Wide Web system's 30 year anniversary celebrations at CERN's main auditorium - 12th March, 2019" src="/images/cern_web_30_celebrations_12_march_2019.jpg" />
+<figcaption> The World-Wide Web system's 30 year anniversary celebrations at CERN's main auditorium - 12th March, 2019 </figcaption>
+</figure>
 This event occured on the 12th of March 2019 to mark 30 years from the time that the original proposal for the World-Wide Web system was authored by Sir. Tim Berners-Lee. It was a fairly colourful day attended by pioneers of the Web technology and leading thinkers in the field. The host was CERN's current director general, Fabiola Gianotti. The guest  of honour, Sir. Tim Berners-Lee and his close collaborators from the early days expressed some form of disappointment with the current state of the system and urged participants from all over the world to consider the original intentions of his invention, then work towards restoring it to its ideal state. The Web had its initial design as being purely decentralized, free of surveillance and exploitation (for-profit), has real privacy, beneficial to all people regardless of physical location and status in society and totally collaborative when first conceived.
 
 ### In summary 
