@@ -6,7 +6,6 @@ category: weblog
 --- 
 
 ## CERN Hack days, September 2013 and February + March 2019
-============================================================
 
 CERN is a Casino! ... for Physicists ... Wanted to be a little dramatic at the beginning of the article and could not really find a better form of entry than that :) 
 
