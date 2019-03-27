@@ -42,15 +42,11 @@ Most of us performed similar tasks to what we had been engaged in during the 201
 Our day started off with us watching a video of someone who had a running copy of the WorldWideWeb browser on an actual NeXT machine while giving a walk-through of the process from boot-up to shutdown. We also got to talk to and work with some of the Web pioneers, namely Jean-François Groff and Robert Cailliau. Some other highlights from our stay include;
 * A visit to a restaurant downtown to eat the best Swiss fondeu besides lake Geneva. 
 * A guided tour by Dr. James Gillies of the SynchroCyclotron (SC), the oldest accelerator at CERN dated 1956, now the star of a really cool projection show at CERN. 
-* We also did all our coding from CERN's computer room and had a breath-taking visit to the *extremely high perfomance computing* data centre that collects the data produced by all Physics experiments when the LHC is fully operational. 
-* Last but not least, we had a brief tour of the Low Energy Ion Ring (LEIR) after completing our project at the end of the week's hackathon.
+* We also did all our coding from CERN's main computer room and had a breath-taking visit to the *extremely high perfomance computing* data centre which collects the data produced by all Physics experiments when the LHC is fully operational. 
+* Last but not least, we had a brief tour of the Low Energy Ion Ring (LEIR) experiment after completing our project at the end of the week's hackathon.
 <figure>
-<img alt="The oldest particle accelerator at CERN, #SynchroCyclotron (SC) from 1956 that could accelerate protons to 80% the speed of light (0.8c). The Large Hadron Collider (LHC) gets to *99.999999% the speed of light. 
-
-Our nearest star system, Proxima Centauri, is 4.37 light years away. Light / a photon from SC arrives there less than 2 seconds earlier than a proton from LHC’s acceleration chambers. An original quote by Dr. James Gillies during a tour of the SC on 15 February #CERNHackDays 2019" src="/images/cern_sc_projection_show_feb_2019.jpg" />
-<figcaption> The oldest particle accelerator at CERN, #SynchroCyclotron (SC) from 1956 that could accelerate protons to 80% the speed of light (0.8c). The Large Hadron Collider (LHC) gets to 99.999999% the speed of light. 
-
-Our nearest star system, Proxima Centauri, is 4.37 light years away. Light / a photon from SC arrives there less than 2 seconds earlier than a proton from LHC’s acceleration chambers. An original quote by Dr. James Gillies during a tour of the SC on 15th February #CERNHackDays 2019 </figcaption>
+<img alt="The oldest particle accelerator at CERN, #SynchroCyclotron (SC) from 1956 that could accelerate protons to 80% the speed of light (0.8c). The Large Hadron Collider (LHC) gets to *99.999999% the speed of light. Our nearest star system, Proxima Centauri, is 4.37 light years away. Light / a photon from SC arrives there less than 2 seconds earlier than a proton from LHC’s acceleration chambers. An original quote by Dr. James Gillies during a tour of the SC on 15 February #CERNHackDays 2019" src="/images/cern_sc_projection_show_feb_2019.jpg" />
+<figcaption> The oldest particle accelerator at CERN, #SynchroCyclotron (SC) from 1956 that could accelerate protons to 80% the speed of light (0.8c). The Large Hadron Collider (LHC) gets to 99.999999% the speed of light. Our nearest star system, Proxima Centauri, is 4.37 light years away. Light / a photon from SC arrives there less than 2 seconds earlier than a proton from LHC’s acceleration chambers. An original quote by Dr. James Gillies during a tour of the SC on 15th February #CERNHackDays 2019 </figcaption>
 </figure>
 ### Web @ 30 celebrations 
 <figure>
