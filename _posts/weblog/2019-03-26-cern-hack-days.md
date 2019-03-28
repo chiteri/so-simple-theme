@@ -50,7 +50,7 @@ Our day started off with us watching [a video of someone who had a running copy 
 </figure>
 ### Web @ 30 celebrations 
 <figure>
-<img alt="The World-Wide Web system's 30 year anniversary celebrations at CERN's main auditorium - 12th March, 2019" src="/images/cern_web_30_celebration_12_march_2019.jpg" />
+<img alt="The World-Wide Web system's 30 year anniversary celebrations at CERN's main auditorium - 12th March, 2019" src="/images/cern_web_30_celebrations_12_march_2019.jpg" />
 <figcaption> The World-Wide Web system's 30 year anniversary celebrations at CERN's main auditorium - 12th March, 2019 </figcaption>
 </figure>
 This event occured on the 12th of March 2019 [to mark 30 years][31] from the time that [the original proposal][32] for the World-Wide Web system was authored by [Sir. Tim Berners-Lee][34]. It was a fairly colourful day attended by pioneers of the Web technology and leading thinkers in the field. The host was CERN's current [director general, Fabiola Gianotti][35]. The guest  of honour, Sir. Tim Berners-Lee and his close collaborators from the early days expressed some form of disappointment with the current state of the system and urged participants from all over the world to consider the original intentions of his invention, then work towards restoring it to its ideal state. The Web had its initial design as being purely decentralized, free of surveillance and exploitation (for-profit), has real privacy, beneficial to all people regardless of physical location and status in society and totally collaborative when first conceived.
