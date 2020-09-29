@@ -10,8 +10,8 @@ category: weblog
 _[CERN is a Casino!][37] ... for Physics ..._ Wanted to be a little dramatic at the beginning of the article and could not think of a better form of entry than that :) 
 
 <figure>
-<img alt="A pipe from the LHC accelerator outside restaurant 1 at CERN - 16th February, 2019" src="/images/cern_hack_days_2019_cafeteria1.jpg" />
-<figcaption> A pipe from the LHC accelerator outside restaurant 1 at CERN - 16<sup>th</sup> February, 2019 </figcaption>
+<img alt="A dipole magnet from the LHC accelerator outside restaurant #1 at CERN - 16th February, 2019" src="/images/cern_hack_days_2019_cafeteria1.jpg" />
+<figcaption> A dipole magnet from the LHC accelerator outside restaurant #1 at CERN - 16<sup>th</sup> February, 2019 </figcaption>
 </figure>
 On a more serious note, [CERN][0] houses the [largest and most complicated Scientific experiment][1] ever carried out by human beings. Someone else had [likened CERN to an airport][2] and the analogy also fits quite well with what goes on at the facility. CERN avails infrastructure to carry out high-energy Particle Physics experiments (non-commercial flights). The equipment researchers find at the lab are comparable to runways, air-traffic control systems, ground staff, tight security equipment & procedures, hangars, landing rights and so on. Experiments conducted are at energy levels that are not attainable *yet* in other laboratories around the globe. 
 
