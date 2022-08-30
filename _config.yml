@@ -32,7 +32,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Martin Akolo Chiteri
-  avatar: martin-chiteri.jpg
+  avatar: martin-chiteri.png
   email: chiteri@geek.co.ke
   disqus-shortname:
   twitter: chiteri
